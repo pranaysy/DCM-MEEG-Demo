@@ -1,0 +1,86 @@
+49 files total
+
+data
+├── derivatives
+│   └── SPM12
+│       ├── sub-01
+│       │   └── meg
+│       │       ├── maMceffdspmeeg_sub-01_ses-meg_task-facerecognition_run-01_proc-sss_meg.dat
+│       │       ├── maMceffdspmeeg_sub-01_ses-meg_task-facerecognition_run-01_proc-sss_meg.mat
+│       │       └── SPMgainmatrix_maMceffdspmeeg_sub-01_ses-meg_task-facerecognition_run-01_proc-sss_meg_1.mat
+│       ├── sub-02
+│       │   └── meg
+│       │       ├── maMceffdspmeeg_sub-02_ses-meg_task-facerecognition_run-01_proc-sss_meg.dat
+│       │       ├── maMceffdspmeeg_sub-02_ses-meg_task-facerecognition_run-01_proc-sss_meg.mat
+│       │       └── SPMgainmatrix_maMceffdspmeeg_sub-02_ses-meg_task-facerecognition_run-01_proc-sss_meg_1.mat
+│       ├── sub-03
+│       │   └── meg
+│       │       ├── maMceffdspmeeg_sub-03_ses-meg_task-facerecognition_run-01_proc-sss_meg.dat
+│       │       ├── maMceffdspmeeg_sub-03_ses-meg_task-facerecognition_run-01_proc-sss_meg.mat
+│       │       └── SPMgainmatrix_maMceffdspmeeg_sub-03_ses-meg_task-facerecognition_run-01_proc-sss_meg_1.mat
+│       ├── sub-04
+│       │   └── meg
+│       │       ├── maMceffdspmeeg_sub-04_ses-meg_task-facerecognition_run-01_proc-sss_meg.dat
+│       │       ├── maMceffdspmeeg_sub-04_ses-meg_task-facerecognition_run-01_proc-sss_meg.mat
+│       │       └── SPMgainmatrix_maMceffdspmeeg_sub-04_ses-meg_task-facerecognition_run-01_proc-sss_meg_1.mat
+│       ├── sub-05
+│       │   └── meg
+│       │       ├── maMceffdspmeeg_sub-05_ses-meg_task-facerecognition_run-01_proc-sss_meg.dat
+│       │       ├── maMceffdspmeeg_sub-05_ses-meg_task-facerecognition_run-01_proc-sss_meg.mat
+│       │       └── SPMgainmatrix_maMceffdspmeeg_sub-05_ses-meg_task-facerecognition_run-01_proc-sss_meg_1.mat
+│       ├── sub-06
+│       │   └── meg
+│       │       ├── maMceffdspmeeg_sub-06_ses-meg_task-facerecognition_run-01_proc-sss_meg.dat
+│       │       ├── maMceffdspmeeg_sub-06_ses-meg_task-facerecognition_run-01_proc-sss_meg.mat
+│       │       └── SPMgainmatrix_maMceffdspmeeg_sub-06_ses-meg_task-facerecognition_run-01_proc-sss_meg_1.mat
+│       ├── sub-07
+│       │   └── meg
+│       │       ├── maMceffdspmeeg_sub-07_ses-meg_task-facerecognition_run-01_proc-sss_meg.dat
+│       │       ├── maMceffdspmeeg_sub-07_ses-meg_task-facerecognition_run-01_proc-sss_meg.mat
+│       │       └── SPMgainmatrix_maMceffdspmeeg_sub-07_ses-meg_task-facerecognition_run-01_proc-sss_meg_1.mat
+│       ├── sub-08
+│       │   └── meg
+│       │       ├── maMceffdspmeeg_sub-08_ses-meg_task-facerecognition_run-01_proc-sss_meg.dat
+│       │       ├── maMceffdspmeeg_sub-08_ses-meg_task-facerecognition_run-01_proc-sss_meg.mat
+│       │       └── SPMgainmatrix_maMceffdspmeeg_sub-08_ses-meg_task-facerecognition_run-01_proc-sss_meg_1.mat
+│       ├── sub-09
+│       │   └── meg
+│       │       ├── maMceffdspmeeg_sub-09_ses-meg_task-facerecognition_run-01_proc-sss_meg.dat
+│       │       ├── maMceffdspmeeg_sub-09_ses-meg_task-facerecognition_run-01_proc-sss_meg.mat
+│       │       └── SPMgainmatrix_maMceffdspmeeg_sub-09_ses-meg_task-facerecognition_run-01_proc-sss_meg_1.mat
+│       ├── sub-10
+│       │   └── meg
+│       │       ├── maMceffdspmeeg_sub-10_ses-meg_task-facerecognition_run-01_proc-sss_meg.dat
+│       │       ├── maMceffdspmeeg_sub-10_ses-meg_task-facerecognition_run-01_proc-sss_meg.mat
+│       │       └── SPMgainmatrix_maMceffdspmeeg_sub-10_ses-meg_task-facerecognition_run-01_proc-sss_meg_1.mat
+│       ├── sub-11
+│       │   └── meg
+│       │       ├── maMceffdspmeeg_sub-11_ses-meg_task-facerecognition_run-01_proc-sss_meg.dat
+│       │       ├── maMceffdspmeeg_sub-11_ses-meg_task-facerecognition_run-01_proc-sss_meg.mat
+│       │       └── SPMgainmatrix_maMceffdspmeeg_sub-11_ses-meg_task-facerecognition_run-01_proc-sss_meg_1.mat
+│       ├── sub-12
+│       │   └── meg
+│       │       ├── maMceffdspmeeg_sub-12_ses-meg_task-facerecognition_run-01_proc-sss_meg.dat
+│       │       ├── maMceffdspmeeg_sub-12_ses-meg_task-facerecognition_run-01_proc-sss_meg.mat
+│       │       └── SPMgainmatrix_maMceffdspmeeg_sub-12_ses-meg_task-facerecognition_run-01_proc-sss_meg_1.mat
+│       ├── sub-13
+│       │   └── meg
+│       │       ├── maMceffdspmeeg_sub-13_ses-meg_task-facerecognition_run-01_proc-sss_meg.dat
+│       │       ├── maMceffdspmeeg_sub-13_ses-meg_task-facerecognition_run-01_proc-sss_meg.mat
+│       │       └── SPMgainmatrix_maMceffdspmeeg_sub-13_ses-meg_task-facerecognition_run-01_proc-sss_meg_1.mat
+│       ├── sub-14
+│       │   └── meg
+│       │       ├── maMceffdspmeeg_sub-14_ses-meg_task-facerecognition_run-01_proc-sss_meg.dat
+│       │       ├── maMceffdspmeeg_sub-14_ses-meg_task-facerecognition_run-01_proc-sss_meg.mat
+│       │       └── SPMgainmatrix_maMceffdspmeeg_sub-14_ses-meg_task-facerecognition_run-01_proc-sss_meg_1.mat
+│       ├── sub-15
+│       │   └── meg
+│       │       ├── maMceffdspmeeg_sub-15_ses-meg_task-facerecognition_run-01_proc-sss_meg.dat
+│       │       ├── maMceffdspmeeg_sub-15_ses-meg_task-facerecognition_run-01_proc-sss_meg.mat
+│       │       └── SPMgainmatrix_maMceffdspmeeg_sub-15_ses-meg_task-facerecognition_run-01_proc-sss_meg_1.mat
+│       └── sub-16
+│           └── meg
+│               ├── maMceffdspmeeg_sub-16_ses-meg_task-facerecognition_run-01_proc-sss_meg.dat
+│               ├── maMceffdspmeeg_sub-16_ses-meg_task-facerecognition_run-01_proc-sss_meg.mat
+│               └── SPMgainmatrix_maMceffdspmeeg_sub-16_ses-meg_task-facerecognition_run-01_proc-sss_meg_1.mat
+└── folder_structure.txt
