@@ -1,4 +1,4 @@
-# Tutorial for group Dynamic Causal Modelling (DCM) of M/EEG
+# Tutorial: Dynamic Causal Modelling (DCM) of M/EEG
 Demo scripts for Dynamic Causal Modelling (DCM) of M/EEG data from the Wakeman & Henson (2015) open dataset using a hierarchical Bayesian framework called Parametric Empirical Bayes (PEB). 
 
 ### Software
