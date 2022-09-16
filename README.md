@@ -23,6 +23,6 @@ The pre-processing steps can be skipped entirely and tutorial-ready data with fo
 Once processed, the data should be stored as indicated in [./data/folder_structure.txt](https://github.com/pranaysy/DCM-MEEG-Demo/blob/094c28fa49dbaa21fc1b41451e74cd6326c7c30f/data/folder_structure.txt)
 
 ### References
-1. Wakeman, D.G. & Henson, R.N. (2015). A multi-subject, multi-modal human neuroimaging dataset. Sci. Data 2:150001 doi: 10.1038/sdata.2015.1
-2. Henson RN, Abdulrahman H, Flandin G and Litvak V (2019) Multimodal Integration of M/EEG and f/MRI Data in SPM12. Front. Neurosci. 13:300. doi: 10.3389/fnins.2019.00300
+1. Wakeman, D.G. & Henson, R.N. (2015). A multi-subject, multi-modal human neuroimaging dataset. Sci. Data 2:150001 https://doi.org/10.1038/sdata.2015.1
+2. Henson RN, Abdulrahman H, Flandin G and Litvak V (2019) Multimodal Integration of M/EEG and f/MRI Data in SPM12. Front. Neurosci. 13:300. https://doi.org/10.3389/fnins.2019.00300
 3. Yadav, Pranay; Henson, Rik (2022): Face processing M/EEG data for Dynamic Causal Modelling. figshare. Dataset. https://doi.org/10.6084/m9.figshare.21130297.v1 
