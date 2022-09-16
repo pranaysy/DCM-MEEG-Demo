@@ -685,7 +685,7 @@ covariate_values = [31, 25, 30, 26, 23, 26, 31, 26, 29, 23, 24, 24, 25, 24, 30, 
 %covariate_values = [0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0]'; % 1=Female
 
 % Mean-center the covariate (Optional)
-%covariate_values = covariate_values - mean(covariate_values);
+covariate_values = covariate_values - mean(covariate_values);
 
 % Design Matrix
 M.X = [ones([length(input_files), 1]), covariate_values]; % First covariate is group mean
