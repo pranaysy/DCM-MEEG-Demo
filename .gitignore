@@ -31,5 +31,9 @@ codegen/
 # Octave session info
 octave-workspace
 
+# SLURM stuff
 Job*
 matlab_metadata.mat
+
+# Large GCM files
+templates/GCMs/**/*.mat
